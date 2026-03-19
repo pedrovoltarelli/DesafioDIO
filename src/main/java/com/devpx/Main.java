@@ -1,5 +1,6 @@
 package com.devpx;
 
+import com.devpx.domain.Conteudo;
 import com.devpx.domain.Curso;
 import com.devpx.domain.Mentoria;
 
